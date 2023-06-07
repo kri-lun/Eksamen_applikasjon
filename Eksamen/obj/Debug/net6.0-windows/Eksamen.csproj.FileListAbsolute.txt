@@ -1,0 +1,105 @@
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.csproj.AssemblyReference.cache
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\MindfulMinutes.Login.resources
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\MindfulMinutes.Main.resources
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.Properties.Resources.resources
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.csproj.GenerateResource.cache
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.AssemblyInfoInputs.cache
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.AssemblyInfo.cs
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.csproj.CoreCompileInputs.cache
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\Eksamen.exe
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\Eksamen.deps.json
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\Eksamen.runtimeconfig.json
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\Eksamen.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\Eksamen.pdb
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.csproj.CopyComplete
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\refint\Eksamen.dll
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.pdb
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\Eksamen.genruntimeconfig.cache
+D:\Downloads\Eksamen App\MindfulMinutes\MindfulMinutes\obj\Debug\net6.0-windows\ref\Eksamen.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.exe
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.deps.json
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.runtimeconfig.json
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.pdb
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.csproj.AssemblyReference.cache
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\MindfulMinutes.Login.resources
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\MindfulMinutes.Main.resources
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.Properties.Resources.resources
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.csproj.GenerateResource.cache
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.AssemblyInfoInputs.cache
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.AssemblyInfo.cs
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.csproj.CoreCompileInputs.cache
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.csproj.CopyComplete
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\refint\Eksamen.dll
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.pdb
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.genruntimeconfig.cache
+D:\Downloads\Eksamen App\Eksamen\Eksamen\obj\Debug\net6.0-windows\ref\Eksamen.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.exe
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.deps.json
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.runtimeconfig.json
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\Eksamen.pdb
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.csproj.AssemblyReference.cache
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\MindfulMinutes.Login.resources
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\MindfulMinutes.Main.resources
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.Properties.Resources.resources
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.csproj.GenerateResource.cache
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.AssemblyInfoInputs.cache
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.AssemblyInfo.cs
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.csproj.CopyComplete
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\refint\Eksamen.dll
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.pdb
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\Eksamen.genruntimeconfig.cache
+C:\Users\Kristian\Downloads\Eksamen\Eksamen\Eksamen\obj\Debug\net6.0-windows\ref\Eksamen.dll
